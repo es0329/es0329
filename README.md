@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 💬 Ask me about Android and Kotlin
+- 📫 Reach me at [@es0329](https://twitter.com/es0329)
+- 😄 Pronouns: He/Him
